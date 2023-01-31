@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 nuevo fichero
-=======
 NUeva modificación del fichero fichero_hola.txt
->>>>>>> dev1
+cambio en el archivo
